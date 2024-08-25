@@ -1,0 +1,2 @@
+Prefix plugins/CSVJoin/example/
+Plugin CSVJoin inputfile parameters.txt outputfile output.csv
